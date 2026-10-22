@@ -1,0 +1,8 @@
+# IntelliJ build output
+out/
+
+# IntelliJ module file
+*.iml
+
+# macOS
+.DS_Store
